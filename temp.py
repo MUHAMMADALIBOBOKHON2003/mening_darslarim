@@ -1,3 +1,4 @@
+print("Hello world")
 users = ['alisher1983','aziza','yasina' 'umar']
 
 login = input("Yangi login tanlang:" )
