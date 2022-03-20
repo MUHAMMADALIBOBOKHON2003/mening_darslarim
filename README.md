@@ -1,2 +1,2 @@
 # mening_darslarim
-Ushbu repozitoriyda men bajargan repoz. lar.
+Ushbu repozitoriyda men bajargan vazifalarlar.
